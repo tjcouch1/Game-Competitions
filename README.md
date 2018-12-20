@@ -15,7 +15,7 @@ Japsteriods is a top-down asteroid game I made for a short competition (maybe 3 
 
 ![](https://github.com/tjcouch1/Game-Competitions/blob/master/japsteroids.gif)
 
-Pizzaboy is a top-down scrolling shooter game I made for a short compettiion (maybe 3 hours, but I can't remember) on 7/30/15.
+Pizzaboy is a top-down scrolling shooter game I made for a short competition (maybe 3 hours, but I can't remember) on 7/30/15.
 
 ![](https://github.com/tjcouch1/Game-Competitions/blob/master/pizzaboy.gif)
 
