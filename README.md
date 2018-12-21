@@ -11,14 +11,14 @@ Paintball is a top-down multiplayer online paintball game I made for a 3-day com
 
 ![](https://github.com/tjcouch1/Game-Competitions/blob/master/paintball.gif)
 
-Japsteriods is a top-down asteroid game I made for a short competition (maybe 3 hours, but I can't remember) on 8/4/15.
+Japsteriods is a top-down asteroid game I made for a short competition (likely 3 hours, but I can't remember) on 8/4/15.
 
 ![](https://github.com/tjcouch1/Game-Competitions/blob/master/japsteroids.gif)
 
-Pizzaboy is a top-down scrolling shooter game I made for a short competition (maybe 3 hours, but I can't remember) on 7/30/15.
+Pizzaboy is a top-down scrolling shooter game I made for a short competition (likely 3 hours, but I can't remember) on 7/30/15.
 
 ![](https://github.com/tjcouch1/Game-Competitions/blob/master/pizzaboy.gif)
 
-UberMan is a parkour platformer game I made for a short competition (maybe 3 hours, but I can't remember) on 7/22/15.
+UberMan is a parkour platformer game I made for a 3-hour competition on 7/22/15. 1 hour for assets, 2 hours for programming.
 
 ![](https://github.com/tjcouch1/Game-Competitions/blob/master/uberman.gif)
